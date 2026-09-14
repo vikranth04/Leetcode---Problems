@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikranth04/Leetcode---Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vikranth04/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0875-koko-eating-bananas](https://github.com/vikranth04/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/vikranth04/Leetcode---Problems/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/vikranth04/Leetcode---Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vikranth04/Leetcode---Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/vikranth04/Leetcode---Problems/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/vikranth04/Leetcode---Problems/tree/master/1539-kth-missing-positive-number) |
 ## Union-Find
 |  |
 | ------- |
