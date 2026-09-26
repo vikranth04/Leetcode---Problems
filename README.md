@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vikranth04/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vikranth04/Leetcode---Problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/vikranth04/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/vikranth04/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vikranth04/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikranth04/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -104,7 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vikranth04/Leetcode---Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/vikranth04/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vikranth04/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vikranth04/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vikranth04/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
