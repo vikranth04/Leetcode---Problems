@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vikranth04/Leetcode---Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vikranth04/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vikranth04/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikranth04/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikranth04/Leetcode---Problems/tree/master/0724-find-pivot-index) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikranth04/Leetcode---Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vikranth04/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikranth04/Leetcode---Problems/tree/master/0242-valid-anagram) |
+| [0525-contiguous-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikranth04/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikranth04/Leetcode---Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vikranth04/Leetcode---Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vikranth04/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vikranth04/Leetcode---Problems/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikranth04/Leetcode---Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikranth04/Leetcode---Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vikranth04/Leetcode---Problems/tree/master/1480-running-sum-of-1d-array) |
